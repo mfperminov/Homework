@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Написал первую строчку");
         System.out.println("Написал вторую строчку");
+        System.out.println("Написал третьей строчку");
     }
 }
